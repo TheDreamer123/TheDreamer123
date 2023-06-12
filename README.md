@@ -1,5 +1,7 @@
 # Hello, I'm TheDreamer123
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+
 **This is my personal (and possibly also professional) GitHub where I post my public projects (which 99% is either a joke or something cursed).**
 
 **I created this account and began posting my creations by modding Minecraft. But I am currently expanding my horizons.**
