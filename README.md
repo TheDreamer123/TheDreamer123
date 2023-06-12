@@ -19,6 +19,8 @@
 
 **Though I am not proud of some, and neither am I advanced in all, I can understand a bit of a couple of them!**
 
+**If you consider Brainfuck a programming language, I messed around a bit with it also.**
+
 ## What I'm currently using
 
 **Obviously, I don't really use all languages I already had contact with, currently, I mostly use:**
@@ -31,10 +33,10 @@
 
 ## My experience
 
-**I am an indie developer, relatively recent, with only 3 years of experience. Though I never colaborated with other projects, I have several on my GitHub page. I am also mostly self-taught.**
+**I am an indie developer, relatively recent, with only 4 years of experience. Though I never colaborated with other projects, I have several on my GitHub page. I am also mostly self-taught.**
 
 ## Want to get in contact?
 
 **Well, I'd rather stay as private as possible, though, if you want to reach me, you can do so by commenting in the profile's project.**
 
-## That's all... I guess...
+### That's all... I guess...
