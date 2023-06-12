@@ -1,6 +1,6 @@
 # Hello, I'm TheDreamer123
 
-**This is my personal GitHub where I post my public projects (which 99% is either a joke or something cursed).**
+**This is my personal (and possibly also professional) GitHub where I post my public projects (which 99% is either a joke or something cursed).**
 
 **I created this account and began posting my creations by modding Minecraft. But I am currently expanding my horizons.**
 
@@ -26,6 +26,8 @@
 * **C**
 * **Java**
 * **Python**
+
+**I also recently explored Kotlin, I might try to learn further. Though not the biggest fan, it certainly is less verbose than Java!**
 
 ## My experience
 
