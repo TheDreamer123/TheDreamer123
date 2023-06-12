@@ -1,6 +1,6 @@
 # Hello, I'm TheDreamer123
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDreamer123)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDreamer123)]
 
 **This is my personal (and possibly also professional) GitHub where I post my public projects (which 99% is either a joke or something cursed).**
 
