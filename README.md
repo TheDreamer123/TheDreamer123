@@ -1,7 +1,5 @@
 # Hello, I'm TheDreamer123
 
-[![Top Langs](https://https://profile-versel-git-main-thedreamer123.vercel.app/api/top-langs/?username=TheDreamer123)](https://github.com/TheDreamer123/TheDreamer123)
-
 **This is my personal (and possibly also professional) GitHub where I post my public projects (which 99% is either a joke or something cursed).**
 
 **I created this account and began posting my creations by modding Minecraft. But I am currently expanding my horizons.**
