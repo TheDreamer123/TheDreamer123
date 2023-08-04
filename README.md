@@ -4,9 +4,9 @@
 
 **I created this account and began posting my creations by modding Minecraft. But I am currently expanding my horizons.**
 
-## Languages I worked with.
+## Languages I worked with
 
-**I am recently new to programming, though, I've worked with a couple languages in the past, these include:**
+**I am relatively new to programming, though, I've worked with a couple languages in the past, these include:**
 
 * **C**
 * **Java**
