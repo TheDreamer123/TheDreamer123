@@ -16,6 +16,7 @@
 * **VBScript**
 * **Batch**
 * **COBOL**
+* **Rust**
 
 **Though I am not proud of some, and neither am I advanced in all, I can understand a bit of a couple of them!**
 
@@ -25,9 +26,7 @@
 
 **Obviously, I don't really use all languages I already had contact with, currently, I mostly use:**
 
-* **C**
-* **Java**
-* **Python**
+* **Rust**
 
 **I also recently explored Kotlin, I might try to learn further. Though not the biggest fan, it certainly is less verbose than Java!**
 
