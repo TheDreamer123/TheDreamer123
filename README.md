@@ -5,6 +5,7 @@
 **I created this account and began posting my creations by modding Minecraft. But I am currently expanding my horizons.**
 
 ## Languages I worked with
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDreamer123&hide_progress=true)
 
 **I am relatively new to programming, though, I've worked with a couple languages in the past, these include:**
 
