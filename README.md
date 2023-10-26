@@ -28,8 +28,7 @@
 **Obviously, I don't really use all languages I already had contact with, currently, I mostly use:**
 
 * **Rust**
-
-**I also recently explored Kotlin, I might try to learn further. Though not the biggest fan, it certainly is less verbose than Java!**
+* **C**
 
 ## My experience
 
